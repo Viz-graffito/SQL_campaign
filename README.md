@@ -123,7 +123,7 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 ### <a id='six'> How many customers having teens in their family?</a>
 - ![6](https://user-images.githubusercontent.com/90683408/154483188-049a3da9-3579-4862-b9e6-22dd3f25cbf4.png)
 
-### <a id='seven'> In which year most custoemr enrolled in the compnay?</a>
+### <a id='seven'> In which year most customer enrolled in the compnay?</a>
 - ![7](https://user-images.githubusercontent.com/90683408/154483270-56ce3808-247c-473e-a56a-00a6e5c2cbf9.png)
 
 ### <a id='eight'> How many customers purchsed today?</a>
