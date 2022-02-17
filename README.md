@@ -68,4 +68,4 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 - [Total number of discounts has been taken yet](href='thirteen')
 - [Which customer took the most of the desls in discounts?](href='twelve')
 
-### What is the average age of a customer? <a id='one'></a>
+### What is the average age of a customer? <a class = 'anchor' id='one'></a>
