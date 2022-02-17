@@ -2,7 +2,7 @@
 ## Aim
 Hey, this is analysis of data for customer segmentation has to be performed by xyz comapny.
 <br>
-The analysis has been done in MYSQL, you can check the SQL code in SQL_campaign.sql. link of the data is provided in the bottom.
+The analysis has been done in MYSQL, you can check the SQL code in "SQL_campaign.sql". All the screenshots in answers in from MYSQL. Link of the data is provided in the bottom.
 <br>
 Aim of this analysis is to understand and segement the cusotmers on the higher level on the basis of their demographics, liking of product types & discounts offer by the company.
 
@@ -52,20 +52,30 @@ NumCatalogPurchases: Number of purchases made using a catalogue
 NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 
+-![0](https://user-images.githubusercontent.com/90683408/154476527-9be72329-7a3a-489b-b1f3-f00d98d3f00b.png)
+
+
 # Questions
-- [What is the average age of a customer?]('#one')
-- [Most common education level of customers?](href='#two')
-- [What is the percentage of marital status of the customers?](href='#three')
-- [What is the average household income of the customer?](href='#four')
-- [How many customers having kids in their family?](href='#five')
-- [How many customers having teens in their family?](href='#six')
-- [In which year most custoemr enrolled in the compnay?](href='#seven')
-- [How many customers purchsed today?](href='#eight')
-- [In which product customer spend most of his money?](href='nine')
-- [What is the ratio of money spend on each type of product?](href='ten')
-- [what is the average money of spent on each product?](href='eleven')
-- [Which offer campaign got the most and lest customers?](href='twelve')
-- [Total number of discounts has been taken yet](href='thirteen')
-- [Which customer took the most of the desls in discounts?](href='twelve')
+- [What is the average age of a customer?](#one)
+- [Most common education level of customers?](#two)
+- [What is the percentage of marital status of the customers?](#three)
+- [What is the average household income of the customer?](#four)
+- [How many customers having kids in their family?](#five)
+- [How many customers having teens in their family?](#six)
+- [In which year most custoemr enrolled in the compnay?](#seven)
+- [How many customers purchsed today?](#eight)
+- [In which product customer spend most of his money?](nine)
+- [What is the ratio of money spend on each type of product?](ten)
+- [what is the average money of spent on each product?](eleven)
+- [Which offer campaign got the most and lest customers?](twelve)
+- [Total number of discounts has been taken yet](thirteen)
+- [Which customer took the most of the desls in discounts?](twelve)
 
 ### What is the average age of a customer? <a class = 'anchor' id='one'></a>
+- ![1](https://user-images.githubusercontent.com/90683408/154476490-eb829ed1-9dc9-46b0-a2f9-824e7c683db1.png)
+
+### <a id='two'>Which student got the highest marks in total?</a>
+- ![2](https://user-images.githubusercontent.com/90683408/154477146-67f30787-bd28-4483-be20-b99183739ccd.png)
+
+### <a id='three' > which student got the lowest marks in total?</a>
+
