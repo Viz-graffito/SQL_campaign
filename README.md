@@ -39,6 +39,7 @@ Dt_Customer: Date of customer's enrollment with the company
 Recency: Number of days since customer's last purchase
 <br>
 Complain: 1 if the customer complained in the last 2 years, 0 otherwise
+<br>
 Products
 <br>
 
@@ -54,6 +55,7 @@ MntFishProducts: Amount spent on fish in last 2 years
 MntSweetProducts: Amount spent on sweets in last 2 years
 <br>
 MntGoldProds: Amount spent on gold in last 2 years
+<br>
 Promotion
 <br>
 
@@ -71,6 +73,7 @@ AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
 AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
 <br>
 Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+<br>
 Place
 <br>
 
