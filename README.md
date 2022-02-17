@@ -140,7 +140,7 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 ### <a id='twelve'> Which offer campaign got the most and least customers?</a>
 - ![11](https://user-images.githubusercontent.com/90683408/154483568-4ded6a86-1037-4b7f-9012-b1b281777e3a.png)
 
-### <a id='fourteen'> Which customer took the most of the desls in discounts?</a>
+### <a id='fourteen'> Which customer took the most of the deals in discounts?</a>
 - ![12](https://user-images.githubusercontent.com/90683408/154483624-926a6a4b-841a-4561-9413-a293f784caeb.png)
 
 ---
