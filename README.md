@@ -53,7 +53,7 @@ NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 # Questions
-- [What is the average age of a customer?](href='#one')
+- [What is the average age of a customer?]('#one')
 - [Most common education level of customers?](href='#two')
 - [What is the percentage of marital status of the customers?](href='#three')
 - [What is the average household income of the customer?](href='#four')
