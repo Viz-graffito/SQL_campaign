@@ -137,7 +137,7 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 ### <a id='eleven'> What is the average money of spent on each product?</a>
 - ![10](https://user-images.githubusercontent.com/90683408/154483533-09aa6b33-3f32-4869-a200-a97863704388.png)
 
-### <a id='twelve'> Which offer campaign got the most and lest customers?</a>
+### <a id='twelve'> Which offer campaign got the most and least customers?</a>
 - ![11](https://user-images.githubusercontent.com/90683408/154483568-4ded6a86-1037-4b7f-9012-b1b281777e3a.png)
 
 ### <a id='fourteen'> Which customer took the most of the desls in discounts?</a>
