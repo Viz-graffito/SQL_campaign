@@ -110,4 +110,4 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 - ![12](https://user-images.githubusercontent.com/90683408/154483624-926a6a4b-841a-4561-9413-a293f784caeb.png)
 
 ---
-data source: [kaggle](src= 'https://www.kaggle.com/imakash3011/customer-personality-analysis')
+data source: [kaggle](https://www.kaggle.com/imakash3011/customer-personality-analysis)
