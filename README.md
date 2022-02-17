@@ -9,8 +9,8 @@ Aim of this analysis is to understand and segement the cusotmers on the higher l
 ### Majaor Takeaways
 after this you will know about:
 - Majory of the customers are of which age and type.
-- Most of the customers liking and livelyhood.
-- Take business decesions in terms of future offercs, product/service type.
+- Their likings, livelihood and in what type of product they spend most of thier money.
+- Take business decesions in terms of future offers, product/service type.
 - Target specific customer segment.
 
 # Undersating of the data
