@@ -164,3 +164,11 @@ FROM
 ORDER BY NumDealsPurchases DESC
 LIMIT 1;
 
+-- From which channel customer puchased most product.
+
+SELECT 
+    SUM(NumWebPurchases) AS Website,
+    SUM(NumCatalogPurchases) AS Catalog,
+    SUM(NumStorePurchases) AS Store
+FROM
+    campaign
