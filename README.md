@@ -103,6 +103,7 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 - [what is the average money of spent on each product?](#eleven)
 - [Which offer campaign got the most and lest customers?](#twelve)
 - [Which customer took the most of the desls in discounts?](#fourteen)
+- [From which channel customer purchased most product](#fifteen)
 
 ### What is the average age of a customer? <a id='one'></a>
 - ![1](https://user-images.githubusercontent.com/90683408/154476490-eb829ed1-9dc9-46b0-a2f9-824e7c683db1.png)
@@ -142,6 +143,10 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 ### <a id='fourteen'> Which customer took the most of the deals in discounts?</a>
 - ![12](https://user-images.githubusercontent.com/90683408/154483624-926a6a4b-841a-4561-9413-a293f784caeb.png)
+
+### <a id='fifteen'> From which channel customer purchased most products </a> 
+- ![13](https://user-images.githubusercontent.com/90683408/154489366-3545d901-78e0-4560-8505-07527927c7cd.png)
+
 
 ---
 data source: [kaggle](https://www.kaggle.com/imakash3011/customer-personality-analysis)
